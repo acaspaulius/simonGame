@@ -1,2 +1,2 @@
 # simonGame
-completed a Simon game challenge
+completed the Simon game challenge
